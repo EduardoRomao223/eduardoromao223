@@ -163,8 +163,9 @@ Tenho interesse em desenvolvimento backend, soluções escaláveis, observabilid
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🐍 Contributions Snake
 
+![Snake animation](https://github.com/EduardoRomao223/EduardoRomao223/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
