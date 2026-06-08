@@ -129,7 +129,7 @@ Tenho interesse em desenvolvimento backend, soluções escaláveis, observabilid
     title="SQLAchemy"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" 
 />
 
 </p>
