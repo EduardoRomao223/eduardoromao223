@@ -144,20 +144,11 @@ Tenho interesse em desenvolvimento backend, soluções escaláveis, observabilid
 
 <p align="left">
 
-<img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=EduardoRomao223&show_icons=true&theme=vision-friendly-dark"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoRomao223&show_icons=true&theme=vision-friendly-dark" />
 
-<img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRomao223&layout=compact&theme=vision-friendly-dark"
-/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRomao223&layout=compact&theme=vision-friendly-dark" />
 
-<img 
-  src="https://komarev.com/ghpvc/?username=EduardoRomao223&color=yellow"
-/>
-
+<img src="https://komarev.com/ghpvc/?username=EduardoRomao223&color=yellow" />
 
 </p>
 
